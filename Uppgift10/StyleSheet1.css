@@ -12,12 +12,10 @@
     color: #ffffff;
     background-color: #763f3f;
 }
-.nav p {
-    background-color: crimson !important;
-}
 
 button {
     float: right;
+    color: navajowhite !important;
 }
 
 .footer {
@@ -30,6 +28,7 @@ button {
     text-align: center;
 }
 
-#kont > p {
-   padding-bottom: 0;
+#kont > div > p {
+   padding-bottom: 1px;
+   padding-top: 1px;
 }
