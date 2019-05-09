@@ -1,0 +1,35 @@
+﻿body, h2, h3, p, ol {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 0;
+    margin: 0;
+    text-align: center;
+    background-color: #c1a6a6
+}
+
+.nav h1 {
+    text-align: center;
+    color: #ffffff;
+    background-color: #763f3f;
+}
+.nav p {
+    background-color: crimson !important;
+}
+
+button {
+    float: right;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red !important;
+    color: white;
+    text-align: center;
+}
+
+#kont > p {
+   padding-bottom: 0;
+}
