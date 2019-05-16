@@ -4,14 +4,14 @@
     border: 0;
     margin: 0;
     text-align: center;
-    background-color: #c1a6a6
+    background-color: #c1a6a6;   
 }
 
-.nav h1 {
+/*.nav h1 {
     text-align: center;
     color: #ffffff;
     background-color: #763f3f;
-}
+}*/
 
 button {
     float: right;
@@ -23,7 +23,7 @@ button {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red !important;
+    background-color: #bb6060 !important;
     color: white;
     text-align: center;
 }
